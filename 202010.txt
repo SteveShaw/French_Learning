@@ -60,7 +60,8 @@ la condidature -- the application
 la conclusion
 la traduction --- the translation.
 
-La pharmacienne 
+La pharmacienne (le pharmacien)-- the pharmacist
+La pharmacie --- the pharmacy
 La ordonnace --- prescription
 tousser --- to cough
 la salle d'attente -- the waiting room
