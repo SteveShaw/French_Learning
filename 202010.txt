@@ -65,6 +65,20 @@ La pharmacie --- the pharmacy
 La ordonnace --- prescription
 tousser --- to cough
 la salle d'attente -- the waiting room
+le talon -  the heel
+la cheville - the ankle
+le pouce -- thumb
+
+
+{
+faire mal / faire du mal
+
+Il va faire mal à ma meilleure amie.
+He's going to hurt my best friend. (physically)
+Il va faire du mal à ma meilleure amie.
+He's going to hurt my best friend.  (emotionally)
+}
+
 
 
 
