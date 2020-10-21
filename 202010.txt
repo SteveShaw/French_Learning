@@ -86,3 +86,6 @@ respirer -- to breath
 faire un régime -- go on a diet
 avoir le doit de --- is allowed to
 tomber à --- falling off
+s'est blessé à -- get injured
+s'est fait mal à --- hurt
+s'est cassé --- broke
